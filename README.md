@@ -5,5 +5,7 @@ The programme covers a variety of python concepts including:
   *Displaying information
   *String concatenation
   *Methods
+  *Condition Statements 
+  *Loops
   *importing Libraries
   *Handling Errors and exceptions
