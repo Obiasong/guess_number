@@ -4,7 +4,7 @@ The programme covers a variety of python concepts including:
   *Inputting data
   *Displaying information
   *String concatenation
-  *Methods
+  *Functions
   *Condition Statements 
   *Loops
   *importing Libraries
